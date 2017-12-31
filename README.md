@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://https://github.com/jdbravol/iOSDev_PreWork/blob/master/TipCalc.gif' title='TipCalc.gif' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/TycbKWy.gif?1' title='TipCalc' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
